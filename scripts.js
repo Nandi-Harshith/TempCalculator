@@ -1,4 +1,3 @@
-// scripts.js
 function convertTemperature() {
     const inputTemp = document.getElementById('inputTemp').value;
     const unitSelect = document.getElementById('unitSelect').value;
